@@ -1,1 +1,2 @@
 # laughing-system
+print("hello!")
